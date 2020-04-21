@@ -1,3 +1,37 @@
 .center{
     text-align: center;
 }
+#red{
+    color: red;
+}
+#blue{
+    color:blue;
+
+}
+#green{
+    color:green;
+
+}
+.orange{
+    color:orange;
+}
+.large{
+    font-size: 45px;
+}
+#small{
+    font-size: 7px;
+}
+.strong{
+    font-weight: bold;
+}
+#newfont{
+    font-family:'Times New Roman', Times, serif;
+}
+.styledFont{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+#styledImage{
+    border:13px solid yellowgreen;
+}
